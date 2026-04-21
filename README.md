@@ -92,14 +92,16 @@ Structure may evolve as the project matures.
 
 ## License
 
-This repository is licensed under the MIT License.
+This project is licensed under the Creative Commons Attribution-ShareAlike 4.0 International License.
 
-You are free to use, modify, and distribute the contents of this repository.
+You are free to use, adapt, and build upon these frameworks, including for commercial purposes, provided that:
 
-However, if you adapt or build upon these frameworks, attribution is appreciated.  
-The intent of this project is openness and shared improvement, not anonymous reuse.
+- Proper attribution is given  
+- Any derivative work is shared under the same license  
 
-See the LICENSE file for full terms.
+The intent of this repository is open use with preserved authorship and continued transparency of method.
+
+Full license: https://creativecommons.org/licenses/by-sa/4.0/
 
 ---
 
