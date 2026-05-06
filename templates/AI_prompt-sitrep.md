@@ -1,4 +1,4 @@
-## AI Prompt — Military/Security Situation Report (SITREP)
+## AI Prompt — Military/Security-style Situation Report (SITREP)
 Last updated 6 May 2026 | Jeremy B. Blevins - jeremy@jeremyblevins.com
 
 ## ROLE
