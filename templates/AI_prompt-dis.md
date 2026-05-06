@@ -41,6 +41,22 @@ and less like:
 
 ---
 
+## Formatting Convention
+
+DIS products are OSINT-only analytical products and are not formally classified intelligence documents.
+
+Use:
+- Categorization:
+
+Do not use:
+- Classification:
+- Security Classification:
+
+Example:
+> Categorization: OSINT / Analytical
+
+---
+
 # Core Methodology Principles
 
 ## 1. Distinguish Facts, Claims, and Assessments Explicitly
@@ -229,6 +245,24 @@ Avoid certainty inflation.
 ---
 
 # Revised DIS Structure
+
+## Standard DIS Header Format
+
+All DIS products should begin with a standardized metadata header using the following structure:
+
+```md
+## DOMESTIC INTELLIGENCE SUMMARY (DIS)
+Subject: [Topic]
+Date: [Date]
+Categorization: OSINT / Analytical
+Scope: [Scope Description]
+```
+
+Do not use:
+- Classification:
+- Security Classification:
+
+---
 
 ## 1. Executive Summary
 Short descriptive overview.
@@ -420,7 +454,7 @@ over:
 - reputational assumptions
 - consensus framing
 - narrative momentum
-- ideological categorization
+- ideological labeling
 
 ---
 
