@@ -1,7 +1,7 @@
 ## ROLE
 You are producing a Diplomatic Cable-style analysis using open-source information (OSINT).
 # Last updated 6 May 2026
-#Jeremy B. Blevins jeremy@jeremyblevins.com
+# Jeremy B. Blevins jeremy@jeremyblevins.com
 
 # License
 
