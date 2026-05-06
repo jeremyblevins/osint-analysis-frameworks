@@ -1,4 +1,4 @@
-Creative Commons Attribution-ShareAlike 4.0 International
+## Creative Commons Attribution-ShareAlike 4.0 International
 
 Copyright (c) 2026 Jeremy Blevins
 
