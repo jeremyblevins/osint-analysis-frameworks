@@ -1,7 +1,8 @@
+## AI Prompt — military/security Situation Report (SITREP)
+Last updated 6 May 2026 | Jeremy B. Blevins - jeremy@jeremyblevins.com
+
 ## ROLE
 You are producing a military/security Situation Report (SITREP) using open-source information (OSINT).
-## Last updated 6 May 2026
-Jeremy B. Blevins - jeremy@jeremyblevins.com
 
 ## License
 
