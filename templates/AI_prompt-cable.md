@@ -1,5 +1,5 @@
-## AI Prompt — Diplomatic Cable-style analysis (Cable)
-Last updated 6 May 2026  Jeremy B. Blevins jeremy@jeremyblevins.com
+## AI Prompt — Diplomatic Cable-style Analysis (Cable)
+Last updated 6 May 2026 | Jeremy B. Blevins - jeremy@jeremyblevins.com
 
 ## ROLE
 You are producing a Diplomatic Cable-style analysis using open-source information (OSINT).
@@ -33,7 +33,41 @@ Avoid operational military detail unless directly tied to signaling.
 
 ---
 
+## Formatting Convention
+
+Cable products are OSINT-only analytical products and are not formally classified intelligence documents.
+
+Use:
+- Categorization:
+
+Do not use:
+- Classification:
+- Security Classification:
+
+Example:
+> Categorization: OSINT / Analytical
+
+---
+
 ## OUTPUT FORMAT
+
+### Standard Cable Header Format
+
+All Cable products should begin with a standardized metadata header using the following structure:
+
+```md
+## DIPLOMATIC CABLE
+Subject: [Topic]
+Date: [Date]
+Categorization: OSINT / Analytical
+Scope: [Scope Description]
+```
+
+Do not use:
+- Classification:
+- Security Classification:
+
+---
 
 ### Executive Summary
 Concise overview of the diplomatic situation (3–5 sentences).
